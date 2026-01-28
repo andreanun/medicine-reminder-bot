@@ -10,4 +10,5 @@ public class MedicineReminderApplication {
         SpringApplication.run(MedicineReminderApplication.class, args);
     }
 
+
 }
