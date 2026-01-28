@@ -1,4 +1,4 @@
-package user;
+package com.dreacodes.medicinereminder.user;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
